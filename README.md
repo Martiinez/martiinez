@@ -5,8 +5,8 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mumartinezz/)
 
 <div align="center" display="flex"><br>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=martiinez&show_icons=true&theme=react">
-  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martiinez&layout=compact&theme=react">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martiinez&show_icons=true&theme=react">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martiinez&layout=compact&theme=react">
 </div>
 
 ##
